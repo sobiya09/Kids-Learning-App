@@ -1,4 +1,4 @@
-# kidsmathapp
+# kidslearningapp
 
 A new Flutter project.
 
